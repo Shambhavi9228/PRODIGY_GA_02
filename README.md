@@ -1,7 +1,7 @@
 # PRODIGY_GA_02
 Image Generation using with pre-trained generative models
 # 🧠 Stable Diffusion Image Generator
-# 🧠 Stable Diffusion Image Generator
+
 
 Generate stunning images from text prompts using Stable Diffusion v1.5 and 🤗 Diffusers.
 
