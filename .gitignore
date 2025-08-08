@@ -1,0 +1,30 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab temporary files
+*.ipynb_save
+
+# Image outputs
+*.png
+*.jpg
+*.jpeg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
